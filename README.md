@@ -1,2 +1,3 @@
-# Permit-To-Kill-COBRA-Research
-Permit To Kill COBRA Research
+This repository contains the code and data that were used to (1) prepare inputs and executable bash commands used to run EPA's COBRA model for LNG projects and buildout scenarios, as explained in the Permit to Kill report; (2) combine and analyze the output data from numerous COBRA executions; and (3) prepare output tables and figures used in the final Permit to Kill report.
+
+We conducted 2 distinct experiments using COBRA: a timeframe analysis ("a") and a single year, project-by-project analysis ("b").

@@ -1,0 +1,85 @@
+Var,Exclude
+Base PM 2.5,x
+Control PM 2.5,x
+Delta PM 2.5,x
+Base O3,x
+Control O3,x
+Delta O3,x
+$ Total Health Benefits(low estimate),x
+$ Total Health Benefits(high estimate),x
+Total Mortality(low estimate),x
+$ Total Mortality(low estimate),x
+Total Mortality(high estimate),x
+$ Total Mortality(high estimate),x
+"PM Mortality, All Cause (low)",x
+"$ PM Mortality, All Cause (low)",x
+"PM Mortality, All Cause (high)",
+"$ PM Mortality, All Cause (high)",
+PM Infant Mortality,
+$ PM Infant Mortality,
+Total O3 Mortality,x
+$ Total O3 Mortality,x
+O3 Mortality (Short-term exposure),
+$ O3 Mortality (Short term exposure),
+O3 Mortality (Long-term exposure),
+$ O3 Mortality (Long-term exposure),
+Total Asthma Symptoms,x
+$ Total Asthma Symptoms,x
+"PM Asthma Symptoms, Albuterol use",
+"$ PM Asthma Symptoms, Albuterol use",
+"O3 Asthma Symptoms, Chest Tightness",
+"$ O3 Asthma Symptoms, Chest Tightness",
+"O3 Asthma Symptoms, Cough",
+"$ O3 Asthma Symptoms, Cough",
+"O3 Asthma Symptoms, Shortness of Breath",
+"$ O3 Asthma Symptoms, Shortness of Breath",
+"O3 Asthma Symptoms, Wheeze",
+"$ O3 Asthma Symptoms, Wheeze",
+"Total Incidence, Asthma",x
+"$ Total Incidence, Asthma",x
+"PM Incidence, Asthma",
+"$ PM Incidence, Asthma",
+"O3 Incidence, Asthma",
+"$ O3 Incidence, Asthma",
+"Total Incidence, Hay Fever/Rhinitis",x
+"$ Total Incidence, Hay Fever/Rhinitis",x
+"PM Incidence, Hay Fever/Rhinitis",
+"$ PM Incidence, Hay Fever/Rhinitis",
+"O3 Incidence, Hay Fever/Rhinitis",
+"$ O3 Incidence, Hay Fever/Rhinitis",
+"Total ER Visits, Respiratory",x
+"$ Total ER Visits, Respiratory",x
+"PM ER Visits, Respiratory",
+"$ PM ER Visits, Respiratory",
+"O3 ER Visits, Respiratory",
+"$ O3 ER Visits, Respiratory",
+"Total Hospital Admits, All Respiratory",x
+$ Total Hospital Admits All Respiratory,x
+"PM Hospital Admits, All Respiratory",
+$ PM Hospital Admits All Respiratory,
+"O3 Hospital Admits, All Respiratory",
+$ O3 Hospital Admits All Respiratory,
+PM Nonfatal Heart Attacks,
+$ PM Nonfatal Heart Attacks,
+PM Minor Restricted Activity Days,
+$ PM Minor Restricted Activity Days,
+PM Work Loss Days,
+$ PM Work Loss Days,
+PM Incidence Lung Cancer,
+$ PM Incidence Lung Cancer,
+PM HA Cardio Cerebro and Peripheral Vascular Disease,
+$ PM HA Cardio Cerebro and Peripheral Vascular Disease,
+PM HA Alzheimers Disease,
+$ PM HA Alzheimers Disease,
+PM HA Parkinsons Disease,
+$ PM HA Parkinsons Disease,
+PM Incidence Stroke,
+$ PM Incidence Stroke,
+PM Incidence Out of Hospital Cardiac Arrest,
+$ PM Incidence Out of Hospital Cardiac Arrest,
+PM ER visits All Cardiac Outcomes,
+$ PM ER visits All Cardiac Outcomes,
+"O3 ER Visits, Asthma",
+"$ O3 ER Visits, Asthma",
+"O3 School Loss Days, All Cause",
+"$ O3 School Loss Days, All Cause",

@@ -1,0 +1,265 @@
+TIER1,TIER2,TIER3,TIER1NAME,TIER2NAME,TIER3NAME
+1,1,1,Fuel Combustion: Electric Utility,Coal,Bituminous
+1,1,2,Fuel Combustion: Electric Utility,Coal,Subbituminous
+1,1,3,Fuel Combustion: Electric Utility,Coal,Anthracite & Lignite
+1,2,1,Fuel Combustion: Electric Utility,Oil,Residual
+1,2,2,Fuel Combustion: Electric Utility,Oil,Distillate
+1,3,1,Fuel Combustion: Electric Utility,Gas,Natural
+1,3,2,Fuel Combustion: Electric Utility,Gas,Process
+1,4,99,Fuel Combustion: Electric Utility,Other,Other
+1,5,99,Fuel Combustion: Electric Utility,Internal Combustion,Other
+2,1,1,Fuel Combustion: Industrial,Coal,Bituminous
+2,1,2,Fuel Combustion: Industrial,Coal,Subbituminous
+2,1,3,Fuel Combustion: Industrial,Coal,Anthracite & Lignite
+2,1,99,Fuel Combustion: Industrial,Coal,Other
+2,2,1,Fuel Combustion: Industrial,Oil,Residual
+2,2,2,Fuel Combustion: Industrial,Oil,Distillate
+2,2,99,Fuel Combustion: Industrial,Oil,Other
+2,3,1,Fuel Combustion: Industrial,Gas,Natural
+2,3,2,Fuel Combustion: Industrial,Gas,Process
+2,3,99,Fuel Combustion: Industrial,Gas,Other
+2,4,1,Fuel Combustion: Industrial,Other,Wood/Bark Waste
+2,4,2,Fuel Combustion: Industrial,Other,Liquid Waste
+2,4,99,Fuel Combustion: Industrial,Other,Other
+2,5,99,Fuel Combustion: Industrial,Internal Combustion,Other
+3,1,99,Fuel Combustion: Other,Commercial/Institutional Coal,Other
+3,2,99,Fuel Combustion: Other,Commercial/Institutional Oil,Other
+3,3,99,Fuel Combustion: Other,Commercial/Institutional Gas,Other
+3,4,99,Fuel Combustion: Other,Misc. Fuel Combustion (Except Residential),Other
+3,5,1,Fuel Combustion: Other,Residential Wood,Fireplaces
+3,5,2,Fuel Combustion: Other,Residential Wood,Woodstoves
+3,5,99,Fuel Combustion: Other,Residential Wood,Other
+3,6,1,Fuel Combustion: Other,Residential Other,Distillate Oil
+3,6,2,Fuel Combustion: Other,Residential Other,Natural Gas
+3,6,3,Fuel Combustion: Other,Residential Other,Bituminous/Subbituminous Coal
+3,6,99,Fuel Combustion: Other,Residential Other,Other
+4,1,1,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,Ethylene Oxide Manufacturing
+4,1,2,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,Phenol Manufacturing
+4,1,3,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,Terephthalic Acid Manufacturing
+4,1,4,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,Ethylene Manufacturing
+4,1,5,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,Charcoal Manufacturing
+4,1,6,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,SOCMI Reactor
+4,1,7,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,SOCMI Distillation
+4,1,9,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,SOCMI Air Oxidation Processes
+4,1,10,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,SOCMI Fugitives
+4,1,99,Chemical & Allied Product Manufacturing,Organic Chemical Manufacturing,Other
+4,2,1,Chemical & Allied Product Manufacturing,Inorganic Chemical Manufacturing,Sulfur Compounds
+4,2,2,Chemical & Allied Product Manufacturing,Inorganic Chemical Manufacturing,Pigments; TiO2 Chloride Process: Reactor
+4,2,99,Chemical & Allied Product Manufacturing,Inorganic Chemical Manufacturing,Other
+4,3,1,Chemical & Allied Product Manufacturing,Polymer & Resin Manufacturing,Polypropylene Manufacturing
+4,3,2,Chemical & Allied Product Manufacturing,Polymer & Resin Manufacturing,Polyethylene Manufacturing
+4,3,3,Chemical & Allied Product Manufacturing,Polymer & Resin Manufacturing,Polystyrene Resins
+4,3,4,Chemical & Allied Product Manufacturing,Polymer & Resin Manufacturing,Synthetic Fiber
+4,3,5,Chemical & Allied Product Manufacturing,Polymer & Resin Manufacturing,Styrene/Butadiene Rubber
+4,3,6,Chemical & Allied Product Manufacturing,Polymer & Resin Manufacturing,Leaks From Polymer Manufacturing.
+4,3,99,Chemical & Allied Product Manufacturing,Polymer & Resin Manufacturing,Other
+4,4,1,Chemical & Allied Product Manufacturing,Agricultural Chemical Manufacturing,Ammonium Nitrate/Urea Manufacturing.
+4,4,99,Chemical & Allied Product Manufacturing,Agricultural Chemical Manufacturing,Other
+4,5,1,Chemical & Allied Product Manufacturing,"Paint, Varnish, Lacquer, Enamel Manufacturing",Paint & Varnish Manufacturing
+4,5,99,Chemical & Allied Product Manufacturing,"Paint, Varnish, Lacquer, Enamel Manufacturing",Other
+4,6,99,Chemical & Allied Product Manufacturing,Pharmaceutical Manufacturing,Other
+4,7,1,Chemical & Allied Product Manufacturing,Other Chemical Manufacturing,Carbon Black Manufacturing
+4,7,2,Chemical & Allied Product Manufacturing,Other Chemical Manufacturing,Printing Ink Manufacturing
+4,7,3,Chemical & Allied Product Manufacturing,Other Chemical Manufacturing,Fugitives Unclassified
+4,7,99,Chemical & Allied Product Manufacturing,Other Chemical Manufacturing,Other
+5,1,1,Metals Processsing,Non-Ferrous Metals Processing,Copper
+5,1,2,Metals Processsing,Non-Ferrous Metals Processing,Lead
+5,1,3,Metals Processsing,Non-Ferrous Metals Processing,Zinc
+5,1,4,Metals Processsing,Non-Ferrous Metals Processing,Aluminum
+5,1,99,Metals Processsing,Non-Ferrous Metals Processing,Other
+5,2,1,Metals Processsing,Ferrous Metals Processing,Primary
+5,2,2,Metals Processsing,Ferrous Metals Processing,Secondary
+5,2,6,Metals Processsing,Ferrous Metals Processing,Basic Oxygen Furnace
+5,2,99,Metals Processsing,Ferrous Metals Processing,Other
+5,3,99,Metals Processsing,Metals Processing Other,Other
+6,1,1,Petroleum & Related Industries,Oil & Gas Production,Natural Gas
+6,1,99,Petroleum & Related Industries,Oil & Gas Production,Other
+6,2,1,Petroleum & Related Industries,Petroleum Refineries & Related Industries,Fluid Catalytic Cracking Units
+6,2,2,Petroleum & Related Industries,Petroleum Refineries & Related Industries,Vacuum Distillation
+6,2,3,Petroleum & Related Industries,Petroleum Refineries & Related Industries,Process Unit Turnarounds
+6,2,4,Petroleum & Related Industries,Petroleum Refineries & Related Industries,Petroleum Refinery Fugitives
+6,2,99,Petroleum & Related Industries,Petroleum Refineries & Related Industries,Other
+6,3,99,Petroleum & Related Industries,Asphalt Manufacturing,Other
+7,1,1,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Country Elevators
+7,1,2,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Terminal Elevators
+7,1,3,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Feed Mills
+7,1,4,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Soybean Mills
+7,1,5,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Wheat Mills
+7,1,6,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Other Grain Mills
+7,1,7,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Bakeries
+7,1,8,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Whiskey Fermentation: Aging
+7,1,9,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Vegetable Oil Manufacturing
+7,1,10,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Commercial Cooking
+7,1,99,Other Indusrial Processes,"Agriculture, Food, & Kindred Products",Other
+7,2,99,Other Indusrial Processes,"Textiles, Leather, & Apparel Products",Other
+7,3,1,Other Indusrial Processes,"Wood, Pulp & Paper, & Publishing Products",Sulfate (Kraft) Pulping
+7,3,99,Other Indusrial Processes,"Wood, Pulp & Paper, & Publishing Products",Other
+7,4,1,Other Indusrial Processes,Rubber & Miscellaneous Plastic Products,Rubber Tire Manufacturing
+7,4,2,Other Indusrial Processes,Rubber & Miscellaneous Plastic Products,Green Tire Spray
+7,4,99,Other Indusrial Processes,Rubber & Miscellaneous Plastic Products,Other
+7,5,1,Other Indusrial Processes,Mineral Products,Cement Manufacturing
+7,5,2,Other Indusrial Processes,Mineral Products,Surface Mining
+7,5,3,Other Indusrial Processes,Mineral Products,Stone Quarrying/Processing
+7,5,4,Other Indusrial Processes,Mineral Products,Glass Manufacturing
+7,5,5,Other Indusrial Processes,Mineral Products,Concrete
+7,5,99,Other Indusrial Processes,Mineral Products,Other
+7,6,99,Other Indusrial Processes,Machinery Products,Other
+7,7,99,Other Indusrial Processes,Electronic Equipment,Other
+7,8,99,Other Indusrial Processes,Transportation Equipment,Other
+7,9,99,Other Indusrial Processes,Construction,Other
+7,10,99,Other Indusrial Processes,Other,Other
+7,99,1,Other Indusrial Processes,Miscellaneous Industrial Processes,Ethanol Production
+7,99,99,Other Indusrial Processes,Miscellaneous Industrial Processes,Other
+8,1,1,Solvent Utilization,Degreasing,Open Top
+8,1,2,Solvent Utilization,Degreasing,Conveyorized
+8,1,3,Solvent Utilization,Degreasing,Cold Cleaning
+8,1,99,Solvent Utilization,Degreasing,Other
+8,2,1,Solvent Utilization,Graphic Arts,Letterpress
+8,2,2,Solvent Utilization,Graphic Arts,Flexographic
+8,2,3,Solvent Utilization,Graphic Arts,Lithographic
+8,2,4,Solvent Utilization,Graphic Arts,Gravure
+8,2,99,Solvent Utilization,Graphic Arts,Other
+8,3,1,Solvent Utilization,Dry Cleaning,Perchloroethylene
+8,3,2,Solvent Utilization,Dry Cleaning,Petroleum Solvent
+8,3,99,Solvent Utilization,Dry Cleaning,Other
+8,4,1,Solvent Utilization,Surface Coating,Industrial Adhesives
+8,4,2,Solvent Utilization,Surface Coating,Fabrics
+8,4,3,Solvent Utilization,Surface Coating,Paper
+8,4,4,Solvent Utilization,Surface Coating,Large Appliances
+8,4,5,Solvent Utilization,Surface Coating,Magnet Wire
+8,4,6,Solvent Utilization,Surface Coating,Autos & Light Trucks
+8,4,7,Solvent Utilization,Surface Coating,Metal Cans
+8,4,8,Solvent Utilization,Surface Coating,Metal Coil
+8,4,9,Solvent Utilization,Surface Coating,Wood Furniture
+8,4,10,Solvent Utilization,Surface Coating,Metal Furniture
+8,4,11,Solvent Utilization,Surface Coating,Flatwood Products
+8,4,12,Solvent Utilization,Surface Coating,Plastic Parts
+8,4,13,Solvent Utilization,Surface Coating,Large Ships
+8,4,14,Solvent Utilization,Surface Coating,Aircraft
+8,4,15,Solvent Utilization,Surface Coating,Misc. Metal Parts
+8,4,16,Solvent Utilization,Surface Coating,Steel Drums
+8,4,17,Solvent Utilization,Surface Coating,Architectural
+8,4,18,Solvent Utilization,Surface Coating,Traffic Markings
+8,4,19,Solvent Utilization,Surface Coating,Maintenance Coatings
+8,4,20,Solvent Utilization,Surface Coating,Railroad
+8,4,21,Solvent Utilization,Surface Coating,Auto Refinishing
+8,4,22,Solvent Utilization,Surface Coating,Machinery
+8,4,23,Solvent Utilization,Surface Coating,Electronic & Other Electrical
+8,4,24,Solvent Utilization,Surface Coating,General
+8,4,25,Solvent Utilization,Surface Coating,Miscellaneous
+8,4,26,Solvent Utilization,Surface Coating,Thinning Solvents
+8,4,99,Solvent Utilization,Surface Coating,Other
+8,5,99,Solvent Utilization,Other Industrial,Other
+8,6,1,Solvent Utilization,Nonindustrial,Cutback Asphalt
+8,6,2,Solvent Utilization,Nonindustrial,Other Asphalt
+8,6,3,Solvent Utilization,Nonindustrial,Pesticide Application
+8,6,4,Solvent Utilization,Nonindustrial,Adhesives
+8,6,5,Solvent Utilization,Nonindustrial,Consumer Solvents
+8,6,99,Solvent Utilization,Nonindustrial,Other
+8,7,99,Solvent Utilization,Solvent Utilization Other,Other
+9,1,1,Storage & Transport,Bulk Terminals & Plants,Fixed Roof
+9,1,2,Storage & Transport,Bulk Terminals & Plants,Floating Roof
+9,1,3,Storage & Transport,Bulk Terminals & Plants,Variable Vapor Space
+9,1,4,Storage & Transport,Bulk Terminals & Plants,External Floating Roof With Seals
+9,1,5,Storage & Transport,Bulk Terminals & Plants,Internal Floating Roof With Seals
+9,1,6,Storage & Transport,Bulk Terminals & Plants,Underground Tanks
+9,1,7,Storage & Transport,Bulk Terminals & Plants,Area Source: Gasoline
+9,1,99,Storage & Transport,Bulk Terminals & Plants,Other
+9,2,1,Storage & Transport,Petroleum & Petroleum Product Storage,Fixed Roof Gasoline
+9,2,2,Storage & Transport,Petroleum & Petroleum Product Storage,Fixed Roof Crude
+9,2,3,Storage & Transport,Petroleum & Petroleum Product Storage,Floating Roof Gasoline
+9,2,4,Storage & Transport,Petroleum & Petroleum Product Storage,Floating Roof Crude
+9,2,5,Storage & Transport,Petroleum & Petroleum Product Storage,External Floating Roof / Seal Gasoline
+9,2,6,Storage & Transport,Petroleum & Petroleum Product Storage,External Floating Roof / Seal Crude
+9,2,7,Storage & Transport,Petroleum & Petroleum Product Storage,Internal Floating Roof / Seal Gasoline
+9,2,8,Storage & Transport,Petroleum & Petroleum Product Storage,Internal Floating Roof / Seal Crude
+9,2,9,Storage & Transport,Petroleum & Petroleum Product Storage,Variable Vapor Space Gasoline
+9,2,10,Storage & Transport,Petroleum & Petroleum Product Storage,Area Source: Gasoline
+9,2,99,Storage & Transport,Petroleum & Petroleum Product Storage,Other
+9,3,1,Storage & Transport,Petroleum & Petroleum Product Transport,Gasoline Loading: Normal / Splash
+9,3,2,Storage & Transport,Petroleum & Petroleum Product Transport,Gasoline Loading: Balanced / Submerged
+9,3,3,Storage & Transport,Petroleum & Petroleum Product Transport,Gasoline Loading: Normal / Submerged
+9,3,4,Storage & Transport,Petroleum & Petroleum Product Transport,Gasoline Loading: Clean / Submerged
+9,3,5,Storage & Transport,Petroleum & Petroleum Product Transport,Marine Vessel Loading: Gasoline
+9,3,99,Storage & Transport,Petroleum & Petroleum Product Transport,Other
+9,4,99,Storage & Transport,Service Stations: Stage I,Other
+9,5,99,Storage & Transport,Service Stations: Stage II,Other
+9,6,99,Storage & Transport,Service Stations: Breathing & Emptying,Other
+9,7,99,Storage & Transport,Organic Chemical Storage,Other
+9,8,99,Storage & Transport,Organic Chemical Transport,Other
+9,9,99,Storage & Transport,Inorganic Chemical Storage,Other
+9,10,99,Storage & Transport,Inorganic Chemical Transport,Other
+9,11,1,Storage & Transport,Bulk Materials Storage,Storage
+9,11,2,Storage & Transport,Bulk Materials Storage,Transfer
+9,11,3,Storage & Transport,Bulk Materials Storage,Combined
+9,11,99,Storage & Transport,Bulk Materials Storage,Other
+9,12,99,Storage & Transport,Bulk Materials Transport,Other
+10,1,2,Waste Disposal & Recycling,Incineration,Municipal Incinerator
+10,1,3,Waste Disposal & Recycling,Incineration,Industrial
+10,1,4,Waste Disposal & Recycling,Incineration,Commercial/Institutional
+10,1,99,Waste Disposal & Recycling,Incineration,Other
+10,2,1,Waste Disposal & Recycling,Open Burning,Industrial
+10,2,2,Waste Disposal & Recycling,Open Burning,Commercial/Institutional
+10,2,3,Waste Disposal & Recycling,Open Burning,Residential
+10,2,4,Waste Disposal & Recycling,Open Burning,Land Clearing Debris
+10,2,5,Waste Disposal & Recycling,Open Burning,Yard Waste
+10,2,99,Waste Disposal & Recycling,Open Burning,Other
+10,3,1,Waste Disposal & Recycling,Publicly Owned Treatment Works,Wastewater Treatment
+10,3,99,Waste Disposal & Recycling,Publicly Owned Treatment Works,Other
+10,4,99,Waste Disposal & Recycling,Industrial Waste Water,Other
+10,5,1,Waste Disposal & Recycling,"Treatment, Storage, and Disposal Facilities",Industrial
+10,5,99,Waste Disposal & Recycling,"Treatment, Storage, and Disposal Facilities",Other
+10,6,1,Waste Disposal & Recycling,Landfills,Industrial
+10,6,99,Waste Disposal & Recycling,Landfills,Other
+10,7,99,Waste Disposal & Recycling,Other,Other
+11,10,1,Highway Vehicles,Compressed Natural Gas (CNG),Heavy Duty
+11,11,1,Highway Vehicles,Diesel Fuel,Heavy Duty
+11,11,2,Highway Vehicles,Diesel Fuel,Light Duty
+11,13,2,Highway Vehicles,Ethanol (E-85),Light Duty
+11,14,1,Highway Vehicles,Gasoline,Heavy Duty
+11,14,2,Highway Vehicles,Gasoline,Light Duty
+12,1,1,Off-Highway,Non-Road Gasoline,Recreational
+12,1,2,Off-Highway,Non-Road Gasoline,Construction
+12,1,3,Off-Highway,Non-Road Gasoline,Industrial
+12,1,4,Off-Highway,Non-Road Gasoline,Lawn & Garden
+12,1,5,Off-Highway,Non-Road Gasoline,Farm
+12,1,6,Off-Highway,Non-Road Gasoline,Light Commercial
+12,1,7,Off-Highway,Non-Road Gasoline,Logging
+12,1,8,Off-Highway,Non-Road Gasoline,Airport Service
+12,1,9,Off-Highway,Non-Road Gasoline,Railway Maintenance
+12,1,10,Off-Highway,Non-Road Gasoline,Recreational Marine Vessels
+12,2,1,Off-Highway,Non-Road Diesel,Recreational
+12,2,2,Off-Highway,Non-Road Diesel,Construction
+12,2,3,Off-Highway,Non-Road Diesel,Industrial
+12,2,4,Off-Highway,Non-Road Diesel,Lawn & Garden
+12,2,5,Off-Highway,Non-Road Diesel,Farm
+12,2,6,Off-Highway,Non-Road Diesel,Light Commercial
+12,2,7,Off-Highway,Non-Road Diesel,Logging
+12,2,8,Off-Highway,Non-Road Diesel,Airport Service
+12,2,9,Off-Highway,Non-Road Diesel,Railway Maintenance
+12,2,10,Off-Highway,Non-Road Diesel,Recreational Marine Vessels
+12,3,99,Off-Highway,Aircraft,Other
+12,4,2,Off-Highway,Marine Vessels,Diesel
+12,4,3,Off-Highway,Marine Vessels,Residual Oil
+12,5,99,Off-Highway,Railroads,Other
+12,6,1,Off-Highway,Other,Liquified Petroleum Gas
+12,6,2,Off-Highway,Other,Compressed Natural Gas
+13,1,99,Natural Resources,Biogenic,Other
+14,1,1,Miscellaneous,Agriculture & Forestry,Agricultural Crops
+14,1,2,Miscellaneous,Agriculture & Forestry,Agricultural Livestock
+14,1,3,Miscellaneous,Agriculture & Forestry,Fertilizer Application
+14,1,99,Miscellaneous,Agriculture & Forestry,Other
+14,2,1,Miscellaneous,Other Combustion,Structural Fires
+14,2,2,Miscellaneous,Other Combustion,Agricultural Fires
+14,2,3,Miscellaneous,Other Combustion,Prescribed Burning
+14,2,4,Miscellaneous,Other Combustion,Forest Wildfires
+14,2,5,Miscellaneous,Other Combustion,Slash Burning (Logging)
+14,2,99,Miscellaneous,Other Combustion,Other
+14,3,99,Miscellaneous,Catastrophic/Accidental Releases,Other
+14,4,99,Miscellaneous,Repair Shops,Other
+14,5,99,Miscellaneous,Health Services,Other
+14,7,1,Miscellaneous,Other Fugitive Dust,Public Unpaved Roads
+14,7,2,Miscellaneous,Other Fugitive Dust,Paved Roads
+14,7,3,Miscellaneous,Other Fugitive Dust,Construction
+14,7,99,Miscellaneous,Other Fugitive Dust,Other
+14,99,99,Miscellaneous,Other,Other
