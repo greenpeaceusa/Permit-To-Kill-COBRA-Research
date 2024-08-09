@@ -4,7 +4,7 @@ This repository contains the code and data corresponding to the analysis underly
 
 # COBRA Methodology
 ## Overview
-We used COBRA to execute 2 distinct experiments: 
+We used EPA's COBRA tool to execute 2 distinct experiments: 
 (a) timeframe analysis comparing the health impacts in different LNG buildout scenarios and;
 (b) project-by-project analysis where permitted emissions from each LNG project are modeled using a common analysis year.
 
@@ -12,8 +12,8 @@ Please refer to the Methodology section of the Permit to Kill report for more in
 
 ## Technical setup
 There are 3 computation steps to the analysis.
-(1) In the Google Colab environment, Jupyter Notebook/Python scripts are used to create COBRA input data csvs and executable batch files for running COBRA;
-(2) In a separate desktop environment, the input files and batch files from step 1 are downloaded. Then the batch files are used to run COBRA. COBRA writes the results of each scenario run to output files;
+(1) In a Google Colab environment, Jupyter Notebook/Python scripts are used to create COBRA input data csvs and executable batch files for running COBRA;
+(2) In a separate desktop environment, the input files and batch files from step 1 are downloaded. Then the batch files are used to run COBRA. COBRA writes the results of each individual execution to output files;
 (3) The output files are uploaded to the same Google Colab environment as Step 1. When all necessary COBRA runs have been completed, Jupyter Notebook/Python scripts are used to analyze the data.
 
 ## How to navigate the repo
